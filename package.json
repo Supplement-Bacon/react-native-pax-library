@@ -1,27 +1,30 @@
 {
-  "name": "react-native-pax-library",
-  "version": "1.0.7",
-  "description": "A React-Native module which allows the use of native features (Ticket Printing, Opening Cash Drawer, ...) of a Pax Technology Android device through NeptuneLite API.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "react-native",
-    "android",
-    "Pax",
-    "Library",
-    "NeptuneLite",
-    "Module"
-  ],
-  "repository": "https://github.com/MoezBaccouche/react-native-pax-library",
-  "author": "Moez Baccouche <moez_bac@hotmail.com> (https://github.com/MoezBaccouche)",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/MoezBaccouche/react-native-pax-library/issues"
-  },
-  "homepage": "https://github.com/MoezBaccouche/react-native-pax-library#readme",
-  "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
-  }
+    "name": "@supplement-bacon/react-native-pax-library",
+    "version": "1.0.24",
+    "description": "A React-Native module which allows the use of native features (Ticket Printing, Opening Cash Drawer, ...) of a Pax Technology Android device through NeptuneLite API.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "react-native",
+        "android",
+        "Pax",
+        "Library",
+        "NeptuneLite",
+        "Module"
+    ],
+    "repository": "https://github.com/Supplement-Bacon/react-native-pax-library",
+    "author": "Moez Baccouche <moez_bac@hotmail.com> (https://github.com/MoezBaccouche)",
+    "maintainers": [
+        "Samuel HASSID <samuel@supplement-bacon.com> (https://github.com/Sml995)"
+    ],
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Supplement-Bacon/react-native-pax-library/issues"
+    },
+    "homepage": "https://github.com/Supplement-Bacon/react-native-pax-library#readme",
+    "publishConfig": {
+        "registry": "https://registry.npmjs.org/"
+    }
 }
