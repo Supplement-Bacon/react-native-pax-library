@@ -34,6 +34,6 @@ repositories {
 
 dependencies {
     implementation 'com.facebook.react:react-native:+'
-    implementation files('libs\\NeptuneLiteApi_V3.24.00_20210519.jar')
+    implementation files('libs\\NeptuneLiteApi_V4.02.00_20230921.jar')
 }
   
